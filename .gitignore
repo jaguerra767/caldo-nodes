@@ -1,0 +1,14 @@
+
+pico-sdk/
+cmake-build-debug/
+cmake-build-debug-arm-gcc/
+
+#IDE Related ignores
+.idea/
+.vscode/
+
+#ignore files not needed to build
+vcs.xml
+*.xml
+
+../.idea/

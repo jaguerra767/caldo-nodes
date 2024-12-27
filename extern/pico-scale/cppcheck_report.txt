@@ -1,0 +1,3 @@
+src/scale.c:111:17: style: The scope of the variable 'diff' can be reduced. [variableScope]
+        int64_t diff; //difference in us from current time to end; updated
+                ^
